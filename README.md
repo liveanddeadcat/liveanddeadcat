@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### This is a live-and-dead cat.
+I'm working on improving my bioinformatic skills as a wet lab buddy!😉
+And hope to develop some useful ways to make my work more efficient...
+
 
 <!--
 **liveanddeadcat/liveanddeadcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
