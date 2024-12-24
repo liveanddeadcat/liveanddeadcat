@@ -1,6 +1,5 @@
-### Hi there 👋
+### Oh you found me.
 #### This is Yuchen.
-I'm working on improving my bioinformatic skills as a wet lab scientist!😉
 
 
 
