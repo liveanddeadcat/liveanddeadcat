@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### This is a live-and-dead cat.
-I'm working on improving my bioinformatic skills as a wet lab buddy!😉
-And hope to develop some useful ways to make my work more efficient...
+#### This is Yuchen.
+I'm working on improving my bioinformatic skills as a wet lab scientist!😉
+
 
 
 <!--
